@@ -1,0 +1,40 @@
+M. RAGUL
+CSE STUDENT | ASPIRING SOFTWARE DEVELOPER
+Email: [YOUR EMAIL] | Phone: [OPTIONAL PROFESSIONAL NUMBER]
+LinkedIn: [PROFILE URL] | GitHub: [PROFILE URL] | Location: [CITY, STATE]
+
+PROFESSIONAL SUMMARY
+Computer Science and Engineering student interested in software development and problem-solving. Familiar with C, C++, Java and front-end web technologies. Gained practical exposure to front-end and back-end development through a 15-day internship project. Eager to strengthen programming fundamentals and contribute to collaborative student projects.
+
+EDUCATION
+B.E. Computer Science and Engineering
+Dhanalakshmi College of Engineering, Tamil Nadu
+[EXPECTED GRADUATION YEAR] | [CGPA — include only if verified]
+
+TECHNICAL SKILLS
+Programming: C, C++, Java
+Web: HTML, CSS, JavaScript
+Framework / Runtime: Node.js
+Tools: Visual Studio Code, GitHub
+
+INTERNSHIP
+Full-Stack Development Intern | Creator Space Lab
+Duration: 15 days | Dates: [VERIFY AND ADD]
+- Gained practical exposure to front-end and back-end development concepts.
+- Worked on a task-management-system project as part of the internship.
+- Practised translating project requirements into website features.
+- [Add your exact individual contribution and technologies only after verification.]
+
+ACADEMIC / PERSONAL PROJECTS
+[PROJECT NAME]
+- [Describe the problem, your role, technologies actually used and current completion status.]
+- [Add a measurable result only if you have evidence.]
+
+STRENGTHS
+Communication | Teamwork | Willingness to learn
+
+DECLARATION
+The information above is accurate to the best of my knowledge.
+
+ROLE TARGET: SOFTWARE / WEB DEVELOPMENT INTERN
+Optional relevant keywords (include only if you can explain them): programming fundamentals, object-oriented programming, debugging, responsive web design, DOM, version control, collaborative development.
